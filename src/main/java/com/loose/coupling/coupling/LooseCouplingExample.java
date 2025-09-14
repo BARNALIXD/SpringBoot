@@ -10,5 +10,5 @@ public class LooseCouplingExample {
         UserManager userManagerWithWs = new UserManager(webServiceProvider);
         System.out.println(userManagerWithWs.getUserInfo());
     }
-}
+
 }
